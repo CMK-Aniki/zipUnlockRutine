@@ -1,0 +1,11 @@
+D:\programing\zipUnlockRutine\zipUnlockRutine\bin\Release\zipUnlockRutine.exe.config
+D:\programing\zipUnlockRutine\zipUnlockRutine\bin\Release\zipUnlockRutine.exe
+D:\programing\zipUnlockRutine\zipUnlockRutine\bin\Release\zipUnlockRutine.pdb
+D:\programing\zipUnlockRutine\zipUnlockRutine\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\programing\zipUnlockRutine\zipUnlockRutine\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\programing\zipUnlockRutine\zipUnlockRutine\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\programing\zipUnlockRutine\zipUnlockRutine\obj\Release\zipUnlockRutine.Properties.Resources.resources
+D:\programing\zipUnlockRutine\zipUnlockRutine\obj\Release\zipUnlockRutine.SettingForm.resources
+D:\programing\zipUnlockRutine\zipUnlockRutine\obj\Release\zipUnlockRutine.csproj.GenerateResource.Cache
+D:\programing\zipUnlockRutine\zipUnlockRutine\obj\Release\zipUnlockRutine.exe
+D:\programing\zipUnlockRutine\zipUnlockRutine\obj\Release\zipUnlockRutine.pdb
